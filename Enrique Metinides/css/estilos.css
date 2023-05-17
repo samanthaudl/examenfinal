@@ -1,0 +1,19 @@
+body{
+    background-color: #2A2730;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.principal {
+    background-color: whitesmoke;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+footer{
+display: flex;
+justify-content: center;
+align-items: last baseline;
+}
